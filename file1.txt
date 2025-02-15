@@ -1,1 +1,4 @@
-ini file pertama
+ini file pertama algoritma
+dapet ip 4
+berhasil mengerjakan tugas dengan baik
+bismillah
